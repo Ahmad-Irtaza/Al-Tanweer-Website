@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and config directories
+Disallow: /config/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://altanweerdoors.com/sitemap.xml
